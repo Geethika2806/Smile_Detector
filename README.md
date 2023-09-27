@@ -1,2 +1,2 @@
 # Smile_Detector
-A program that can identify a face and detect a smile.
+A simple real-time face and smile detection application using OpenCV in Python.
